@@ -1,0 +1,4 @@
+package: github.com/fenfir/stroop-game
+import:
+- package: github.com/faiface/pixel
+  version: ~0.8.0
