@@ -1,5 +1,5 @@
-hash: 3b145d2e5c269f3d88b78d0e30b1cce7a0fd731457159ffd6d920faf30b75a90
-updated: 2019-01-21T22:12:39.705768411+01:00
+hash: 6fd3e9d85546a8e23e7eece359f38bcb7519355c986101d7be28916edbf4b447
+updated: 2019-01-21T22:20:11.869579523+01:00
 imports:
 - name: github.com/faiface/glhf
   version: 82a6317ac380cdc61567d729fe48833d75b8108e
@@ -26,5 +26,6 @@ imports:
 - name: golang.org/x/image
   version: 183bebdce1b249c42a7cf6772817e8c2e873b966
   subpackages:
+  - colornames
   - math/f32
 testImports: []
